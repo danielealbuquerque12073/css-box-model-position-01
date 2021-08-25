@@ -1,0 +1,29 @@
+.primeiro{
+         border: 12px solid green;
+          margin: 5px;
+           padding: 10px;
+           border-image-width: 240px;
+           
+  
+
+}
+.segundo{
+	    border: 11px groove red;
+	      margin: 5px;
+            padding: 10px;
+}
+.terceiro{
+	     border:10px dotted black;
+	      margin: 5px;
+           padding: 10px;
+}
+.quarto{
+	   border:12px ridge blue;
+	    margin: 5px;
+           padding: 10px;
+}
+.quinto{
+	   border: 8px dashed orange;
+	    margin: 5px;
+           padding: 10px;
+}
